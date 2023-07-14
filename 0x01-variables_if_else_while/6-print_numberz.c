@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * main - Prints numbers from 0 to 9.
  *
@@ -5,12 +7,13 @@
  */
 int main(void)
 {
-int n;
+	int i;
 
-for (n = 48; n < 58; n++)
-{
-putchar(n);
+	for (i = 48; i < 58; i++)
+	{
+		putchar(i);
+	}
+	putchar('\n');
+	return (0);
 }
-putchar('\n');
-return (0);
-}
+
