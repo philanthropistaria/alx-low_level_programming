@@ -13,7 +13,7 @@ for (lowercase = 'a'; lowercase <= 'z'; lowercase++)
 putchar(lowercase);
 
 }
-for (uppercase = 'A'; uppercase <= 'z'; lowercase++)
+for (uppercase = 'A'; uppercase <= 'Z'; lowercase++)
 {
 putchar(uppercase);
 }
