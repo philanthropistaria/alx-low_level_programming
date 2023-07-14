@@ -4,7 +4,7 @@
 
 /**
  * main - the beggining of the code
- * Return: 0
+ * Return: n
 */
 int main(void)
 {
