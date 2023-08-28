@@ -5,7 +5,7 @@
  * @head: pointer in the first element in th elinked list
  * Return: will return the head notes data or zero if the linked list is empty
  */
-int pop_listint(listint_t **head);
+int pop_listint(listint_t **head)
 {
 	listint_t *temp;
 	int num;
