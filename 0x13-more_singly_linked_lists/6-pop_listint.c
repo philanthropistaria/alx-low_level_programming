@@ -3,7 +3,7 @@
 /**
  * pop_listint - will delete the head note of the linked list
  * @head: pointer in the first element in th elinked list
- * Return: will return the head notes data or 0 if the linked list is empty
+ * Return: will return the head notes data or zero if the linked list is empty
  */
 int pop_listint(listint_t **head);
 {
