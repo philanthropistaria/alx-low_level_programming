@@ -4,7 +4,7 @@
  * create_file - taht will create a file
  * @filename: a pointer to the nam eof the file that is to be created
  * @text_content: a string to write the file
- * Return: 1 on success, -1 on failure (file can not be created, 
+ * Return: 1 on success, -1 on failure (file can not be created,
  * file can not be written, write “fails”, etc…)
  */
 int create_file(const char *filename, char *text_content)
